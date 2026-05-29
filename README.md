@@ -75,7 +75,7 @@ Focuses on transformer-based clinical NLP using:
 * blood pressure
 ---
 
-# 🚀 How to Run
+# How to Run
 
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
